@@ -8,10 +8,10 @@ KivyMD library (Optional)
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-#Installing#
+## Installing
 To install the required packages, run the following command in your terminal:
 
-#Copy code#
+## Copy code
 pip install kivy
 If you want to use the KivyMD library for a Material Design interface, run the following command:
 
